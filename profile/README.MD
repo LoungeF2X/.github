@@ -1,6 +1,6 @@
 <p align="center">
 <kbd>
-<a href="https://loungef2x.vercel.app"><img width="150px" src="https://avatars.githubusercontent.com/u/179362731"></a>
+<a href="https://loungef2x.vercel.app" target="_blank"><img width="150px" src="https://avatars.githubusercontent.com/u/179362731"></a>
 </kbd>
 </p>
 <h1 align="center">LoungeF2X</h1>
